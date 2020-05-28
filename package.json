@@ -1,0 +1,24 @@
+{
+  "name": "react-jest-enzyme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "like_button.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gist.github.com/faa67b76a6c47adbab04f739cba7ceda.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gist.github.com/faa67b76a6c47adbab04f739cba7ceda"
+  },
+  "homepage": "https://gist.github.com/faa67b76a6c47adbab04f739cba7ceda",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-react-app": "^3.1.2"
+  }
+}
